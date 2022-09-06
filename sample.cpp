@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"this is shyma";
+	cout<<"this is Sulaiha";
 	return 0;
 }
